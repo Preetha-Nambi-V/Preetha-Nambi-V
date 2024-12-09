@@ -34,15 +34,15 @@
 
 ##   🌟 About Me    
 -ME(A)RN STACK INTERN | LUMINAR TECHNOLAB
-🎓Diploma in Computer Engineering
-🎓B.Tech in Computer Science & Engineering 
-💡 Curious Learner: Always exploring new technologies and improving my skills.  
-🌱 Currently diving deeper into full-stack development.
+-🎓Diploma in Computer Engineering
+-🎓B.Tech in Computer Science & Engineering 
+-💡 Curious Learner: Always exploring new technologies and improving my skills.  
+-🌱 Currently diving deeper into full-stack development.
 
 
 ---
 
 ## 🔗 Connect with Me   
-💼 [LinkedIn: https://www.linkedin.com/in/abiya-baby-142b5b214/](https://in.linkedin.com/in/preetha-nambi-v-922a032b0)
-📫 Email: nambipreetha@gmail.com  
+-💼 [LinkedIn: https://www.linkedin.com/in/abiya-baby-142b5b214/](https://in.linkedin.com/in/preetha-nambi-v-922a032b0)
+-📫 Email: nambipreetha@gmail.com  
 
