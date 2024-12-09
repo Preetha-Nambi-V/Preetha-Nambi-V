@@ -43,6 +43,6 @@
 ---
 
 ## 🔗 Connect with Me   
-**-💼 [LinkedIn: https://www.linkedin.com/in/abiya-baby-142b5b214/](https://in.linkedin.com/in/preetha-nambi-v-922a032b0)**
+**-💼 LinkeIn: [LinkedIn: https://www.linkedin.com/in/abiya-baby-142b5b214/](https://in.linkedin.com/in/preetha-nambi-v-922a032b0)**
 **📫 Email: nambipreetha@gmail.com**  
 
