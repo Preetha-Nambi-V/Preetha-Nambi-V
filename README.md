@@ -34,10 +34,10 @@
 
 ##   🌟 About Me    
 -ME(A)RN STACK INTERN | LUMINAR TECHNOLAB
--**🎓Diploma in Computer Engineering**
--**🎓B.Tech in Computer Science & Engineering** 
--**💡 Curious Learner: Always exploring new technologies and improving my skills.**  
--**🌱 Currently diving deeper into full-stack development.**
+🎓Diploma in Computer Engineering
+🎓B.Tech in Computer Science & Engineering
+💡 Curious Learner: Always exploring new technologies and improving my skills.  
+🌱 Currently diving deeper into full-stack development.
 
 
 ---
