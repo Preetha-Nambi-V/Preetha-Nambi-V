@@ -27,8 +27,8 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiyababy8&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiyababy8&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Preetha-Nambi-V&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preetha-Nambi-V&layout=compact&theme=radical)  
 
 ---
 
